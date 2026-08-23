@@ -1,4 +1,4 @@
-# Data-Driven Cardiac Modeling Using ECGI
+# Data-Driven Cardiac Modeling from Body Surface Potentials Using Machine Learning
 
 ## Project Status
 🚧 **Work in Progress**
@@ -247,26 +247,3 @@ This will provide both quantitative and qualitative evaluation of the ECGI recon
 - 3D cardiac visualization
 
 ---
-
-## 12. Project Structure
-
-```text
-Data-Driven-Cardiac-Modeling-ECGI/
-│
-├── data/
-│   └── README.md
-│
-├── notebooks/
-│   ├── 01_data_extraction.ipynb
-│   ├── 02_preprocessing.ipynb
-│   └── 03_data_alignment.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   └── data_alignment.py
-│
-├── results/
-│   └── figures/
-│
-├── README.md
-└── requirements.txt
