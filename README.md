@@ -247,3 +247,9 @@ This will provide both quantitative and qualitative evaluation of the ECGI recon
 - 3D cardiac visualization
 
 ---
+## Team Members
+
+- Keerthan 
+- Manish
+- Nishanth
+- Nisarga s
